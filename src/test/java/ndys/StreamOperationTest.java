@@ -9,6 +9,7 @@ public class StreamOperationTest {
 
     @Test
     void testMapStream() {
+        // Recommended using stream pipeline
         List<String> names = List.of("Hendy", "Saputra");
 
         // Names is immutable, stream create new transformed data
