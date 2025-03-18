@@ -1,4 +1,4 @@
-package ndys;
+package ndys.collectors;
 
 import org.junit.jupiter.api.Test;
 

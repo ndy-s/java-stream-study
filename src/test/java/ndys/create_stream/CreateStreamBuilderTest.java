@@ -1,4 +1,4 @@
-package ndys;
+package ndys.create_stream;
 
 import org.junit.jupiter.api.Test;
 

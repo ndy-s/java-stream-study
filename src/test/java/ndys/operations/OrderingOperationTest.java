@@ -1,4 +1,4 @@
-package ndys;
+package ndys.operations;
 
 import org.junit.jupiter.api.Test;
 
